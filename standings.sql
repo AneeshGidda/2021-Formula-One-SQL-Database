@@ -1,4 +1,4 @@
--- This SQL query is designed to calculate and update driver standings, team standings, and create a podium table.
+-- This SQL script is designed to calculate and update driver standings, team standings, and create a podium table.
 -- It uses a defined points system to assign points to drivers based on their race positions.
 
 -- Create a temporary table '#points_system' to store the predefined points system for race positions.
