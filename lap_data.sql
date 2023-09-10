@@ -1,4 +1,4 @@
--- This SQL query is designed to create and populate tables related to Formula One race data,
+-- This SQL script is designed to create and populate tables related to Formula One race data,
 -- including tables for storing fastest laps and average lap times for drivers in each race.
 -- It also includes a step to calculate and extract the fastest laps and average lap times from
 -- the existing lap_times table.
