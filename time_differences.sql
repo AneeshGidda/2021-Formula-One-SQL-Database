@@ -1,4 +1,4 @@
--- This SQL query is used to calculate and update time differences in Formula One qualifying results
+-- This SQL script is used to calculate and update time differences in Formula One qualifying results
 -- and then apply these differences to the 'qualifying_results' table.
 
 -- Create a temporary table called '#time_values' to store intermediate values.
