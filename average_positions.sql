@@ -1,4 +1,4 @@
--- This SQL query is focused on generating insights from Formula One race and qualifying data.
+-- This SQL script is focused on generating insights from Formula One race and qualifying data.
 -- It creates intermediate tables to calculate position changes between race and qualifying,
 -- as well as average positions for each driver across races.
 
