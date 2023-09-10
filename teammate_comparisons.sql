@@ -1,4 +1,4 @@
--- This SQL query creates a table 'teammate_comparisons' to analyze and compare the performance 
+-- This SQL script creates a table 'teammate_comparisons' to analyze and compare the performance 
 -- of teammates in Formula One based on qualifying and race results. It populates the table with 
 -- information about driver performance within the same team.
 
